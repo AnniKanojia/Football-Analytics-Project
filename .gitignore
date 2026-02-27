@@ -1,6 +1,17 @@
+# System files
 desktop.ini
 .DS_Store
+
+# Python
 __pycache__/
+*.pyc
+
+# Data files
 *.csv
 *.xlsx
+
+# Power BI
 *.pbix
+
+# Jupyter
+.ipynb_checkpoints/
